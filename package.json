@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/fullcalendar",
+        "scope": "@types",
+        "escapedName": "@types%2ffullcalendar",
+        "name": "@types/fullcalendar",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/anton/ng2-webpack-rc6"
+    ]
+  ],
+  "_from": "@types/fullcalendar@latest",
+  "_id": "@types/fullcalendar@2.7.31",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/@types/fullcalendar",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/fullcalendar-2.7.31.tgz_1472150574568_0.19648979790508747"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/fullcalendar",
+    "scope": "@types",
+    "escapedName": "@types%2ffullcalendar",
+    "name": "@types/fullcalendar",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/fullcalendar/-/fullcalendar-2.7.31.tgz",
+  "_shasum": "eaadffdb0feec528637eb484c9a4f4d53267a437",
+  "_shrinkwrap": null,
+  "_spec": "@types/fullcalendar",
+  "_where": "/home/anton/ng2-webpack-rc6",
+  "author": {
+    "name": "Neil Stalker",
+    "email": "https://github.com/nestalk"
+  },
+  "dependencies": {
+    "@types/jquery": "1.10.*",
+    "moment": "2.14.*"
+  },
+  "description": "TypeScript definitions for FullCalendar 2.7.2",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "eaadffdb0feec528637eb484c9a4f4d53267a437",
+    "tarball": "https://registry.npmjs.org/@types/fullcalendar/-/fullcalendar-2.7.31.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/fullcalendar",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typings": "index.d.ts",
+  "version": "2.7.31"
+}
